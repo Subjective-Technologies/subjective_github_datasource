@@ -1,4 +1,5 @@
 {
+  "description": "Clones GitHub repositories into a target directory using personal access credentials and prepares source data for indexing.",
   "domainCategory": "Software Development",
   "subjectiveTechnologyElement": "DataSources",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Git Hub",
-      "text": "A Subjective data source for git hub.",
+      "text": "Clones GitHub repositories into a target directory using personal access credentials and prepares source data for indexing.",
       "image": {
         "src": "/subjective_github_datasource/icon.svg",
         "alt": "Git Hub icon"
